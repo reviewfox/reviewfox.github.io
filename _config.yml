@@ -17,12 +17,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "샵온"
+title                    : "리뷰폭스"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "shopon"
-description              : "좋은 상품정보"
-url                      : "https://mmistakes.github.io"
+name                     : "reviewfox"
+description              : "똑똑한 구매를 위한 신뢰의 리뷰"
+url                      : "https://reviewfox.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -84,7 +84,7 @@ google:
 # SEO Related
 google_site_verification :
 bing_site_verification   :
-naver_site_verification  : 
+naver_site_verification  : "329c71df48e7fcd7deb14a52c57543190d79d28d"
 yandex_site_verification :
 baidu_site_verification  :
 
@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "샵온"
+  name             : "리뷰폭스"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "상품의 상세정보 및 리뷰를보고 구매하세요"
+  bio              : "실제 사용 후기를 바탕으로 한 정직한 리뷰! 소비자의 현명한 선택을 돕는 파트너."
   location         : "Somewhere"
   email            :
   links:
